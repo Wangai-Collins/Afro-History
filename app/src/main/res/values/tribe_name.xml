@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tribe_name">
+    <item>Akan </item>
+    <item>Abyssians</item>
+    <item>Amhara</item>
+    <item>Chewa</item>
+    <item>Fulani</item>
+    <item>Hausa</item>
+    <item>Hutu</item>
+    <item>Igbo</item>
+    <item>Kanuri</item>
+    <item>Kongo</item>
+    <item>Luba</item>
+    <item>Maghrebis</item>
+    <item>Mongo</item>
+    <item>Nilotes</item>
+    <item>Oromo</item>
+    <item>Shona</item>
+    <item>Somali</item>
+    <item>Yoruba</item>
+    <item>Zulu</item>
+    </string-array>
+</resources>
